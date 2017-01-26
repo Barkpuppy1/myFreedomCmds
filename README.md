@@ -1,0 +1,2 @@
+# myFreedomCmds
+My FreedomMod commands
